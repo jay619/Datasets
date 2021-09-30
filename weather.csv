@@ -1,0 +1,15 @@
+﻿Example,Outlook,Temperature,Humidity,Wind,Class
+1,Sunny,Hot,High,FALSE,N
+2,Sunny,Hot,High,TRUE,N
+3,Overcast,Hot,High,FALSE,P
+4,Rainy,Mild,High,FALSE,P
+5,Rainy,Cool,Normal,FALSE,P
+6,Rainy,Cool,Normal,TRUE,N
+7,Overcast,Cool,Normal,TRUE,P
+8,Sunny,Mild,High,FALSE,N
+9,Sunny,Cool,Normal,FALSE,P
+10,Rainy,Mild,Normal,FALSE,P
+11,Sunny,Mild,Normal,TRUE,P
+12,Overcast,Mild,High,TRUE,P
+13,Overcast,Hot,Normal,FALSE,P
+14,Rainy,Mild,High,TRUE,N
